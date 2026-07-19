@@ -2,7 +2,7 @@ name: Reddit World Cup Ticket Monitor
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: 
   workflow_dispatch: {}
 
 permissions:
